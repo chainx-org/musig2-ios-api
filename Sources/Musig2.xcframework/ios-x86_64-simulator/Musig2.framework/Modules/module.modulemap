@@ -1,0 +1,11 @@
+framework module Musig2 {
+  umbrella header "Musig2.h"
+
+  export *
+  module * { export * }
+}
+
+module Musig2.Swift {
+    header "Musig2-Swift.h"
+    requires objc
+}
