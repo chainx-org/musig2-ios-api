@@ -13,5 +13,5 @@ public func decodeRound1State(round1_state: Swift.String) -> Swift.OpaquePointer
 public func getRound2Msg(state: Swift.OpaquePointer?, msg: Swift.String, priv: Swift.String, pubkeys: [Swift.String], received_round1_msg: [Swift.String]) -> Swift.String
 public func getAggSignature(round2_msg: [Swift.String]) -> Swift.String
 public func getAggPublicKey(pubkeys: [Swift.String]) -> Swift.String
-public func generateThresholdPubkey(pubkeys: [Swift.String], threshold: Swift.UInt8) -> Swift.String
+public func generateThresholdPubkey(pubkeys: [Swift.String], threshold: Swift.UInt8, network: Swift.String) -> Swift.String
 public func generateControlBlock(pubkeys: [Swift.String], threshold: Swift.UInt8, agg_pubkey: Swift.String) -> Swift.String
