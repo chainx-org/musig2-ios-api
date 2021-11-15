@@ -10,11 +10,11 @@
 		</data>
 		<key>Headers/Musig2.h</key>
 		<data>
-		t8epxYH15u4AQyzKV/TKH9IlemM=
+		dLz4t7StJz0cji4iLN5aUEI9lXY=
 		</data>
 		<key>Headers/Musig2Header.h</key>
 		<data>
-		S+aEfThpOu28HTEzdvcUhsFppTY=
+		rEQEwtw1AruAAJtuhsitszq0W3Y=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -26,11 +26,11 @@
 		</data>
 		<key>Modules/Musig2.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		ESl0X5QBcBCJmXg5WgL0v0g+9LQ=
+		lKahmfj/zxYcWybRDc3sN+3bEmU=
 		</data>
 		<key>Modules/Musig2.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		iRdjzTqsJ4J0fpaJ5LKYzsma0/k=
+		loeFY5CSGW6X7Kx8e30HKTTBizU=
 		</data>
 		<key>Modules/Musig2.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -38,11 +38,11 @@
 		</data>
 		<key>Modules/Musig2.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		ESl0X5QBcBCJmXg5WgL0v0g+9LQ=
+		lKahmfj/zxYcWybRDc3sN+3bEmU=
 		</data>
 		<key>Modules/Musig2.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		iRdjzTqsJ4J0fpaJ5LKYzsma0/k=
+		loeFY5CSGW6X7Kx8e30HKTTBizU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -66,22 +66,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			t8epxYH15u4AQyzKV/TKH9IlemM=
+			dLz4t7StJz0cji4iLN5aUEI9lXY=
 			</data>
 			<key>hash2</key>
 			<data>
-			ykyBEw0UYu6lXxZTwROUW82xwXWSiK9QwaduAni9Mq4=
+			H2PjDzHTgFmvdh3fC3r5hUnyN3XHHeDr6/6eR7xAvYQ=
 			</data>
 		</dict>
 		<key>Headers/Musig2Header.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			S+aEfThpOu28HTEzdvcUhsFppTY=
+			rEQEwtw1AruAAJtuhsitszq0W3Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			FxVtzEm67ox0F9Br37bNg5o9RlG5SPgYYFuwmcMHChI=
+			pcCm4dzejuqym+x0WcZ0H2/Q0E8ltoWvMbMiT2w0VxE=
 			</data>
 		</dict>
 		<key>Modules/Musig2.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -99,22 +99,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ESl0X5QBcBCJmXg5WgL0v0g+9LQ=
+			lKahmfj/zxYcWybRDc3sN+3bEmU=
 			</data>
 			<key>hash2</key>
 			<data>
-			IoF3aZpKLPDH6N1rlj+eBFuJ13N50v9h/3WOLBXLMA8=
+			yUiZNCfCoan8Ou/LYfORaJdhkPPCbMsMsP9AiJqSJ6E=
 			</data>
 		</dict>
 		<key>Modules/Musig2.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			iRdjzTqsJ4J0fpaJ5LKYzsma0/k=
+			loeFY5CSGW6X7Kx8e30HKTTBizU=
 			</data>
 			<key>hash2</key>
 			<data>
-			j4nZMCDTTwPgyC2jkdqWH3w7uakORAJxNOUQguKNBVk=
+			JXRd9OzSw210gXkzecSyBZ6+lBba2CkiluwGzaWTBW8=
 			</data>
 		</dict>
 		<key>Modules/Musig2.swiftmodule/x86_64.swiftdoc</key>
@@ -132,22 +132,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ESl0X5QBcBCJmXg5WgL0v0g+9LQ=
+			lKahmfj/zxYcWybRDc3sN+3bEmU=
 			</data>
 			<key>hash2</key>
 			<data>
-			IoF3aZpKLPDH6N1rlj+eBFuJ13N50v9h/3WOLBXLMA8=
+			yUiZNCfCoan8Ou/LYfORaJdhkPPCbMsMsP9AiJqSJ6E=
 			</data>
 		</dict>
 		<key>Modules/Musig2.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			iRdjzTqsJ4J0fpaJ5LKYzsma0/k=
+			loeFY5CSGW6X7Kx8e30HKTTBizU=
 			</data>
 			<key>hash2</key>
 			<data>
-			j4nZMCDTTwPgyC2jkdqWH3w7uakORAJxNOUQguKNBVk=
+			JXRd9OzSw210gXkzecSyBZ6+lBba2CkiluwGzaWTBW8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

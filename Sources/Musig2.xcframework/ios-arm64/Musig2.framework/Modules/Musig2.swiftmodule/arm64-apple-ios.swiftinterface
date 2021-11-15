@@ -6,6 +6,7 @@ import Foundation
 import Swift
 import _Concurrency
 public func getRound1State() -> Swift.OpaquePointer?
+public func getMyPrivkey(phrase: Swift.String, pd_passphrase: Swift.String) -> Swift.String
 public func getMyPubkey(priv: Swift.String) -> Swift.String
 public func getRound1Msg(state: Swift.OpaquePointer?) -> Swift.String
 public func encodeRound1State(state: Swift.OpaquePointer?) -> Swift.String
@@ -15,3 +16,9 @@ public func getAggSignature(round2_msg: [Swift.String]) -> Swift.String
 public func getAggPublicKey(pubkeys: [Swift.String]) -> Swift.String
 public func generateThresholdPubkey(pubkeys: [Swift.String], threshold: Swift.UInt8, network: Swift.String) -> Swift.String
 public func generateControlBlock(pubkeys: [Swift.String], threshold: Swift.UInt8, agg_pubkey: Swift.String) -> Swift.String
+public func generateSchnorrSignature(message: Swift.String, privkey: Swift.String) -> Swift.String
+public func getScriptPubkey(addr: Swift.String) -> Swift.String
+public func generateRawTx(txids: [Swift.String], indexs: [Swift.UInt32], addresses: [Swift.String], amounts: [Swift.UInt64]) -> Swift.String
+public func getSighash(prev_tx: Swift.String, tx: Swift.String, input_index: Swift.UInt32, agg_pubkey: Swift.String, sigversion: Swift.UInt32) -> Swift.String
+public func buildThresholdTx(tx: Swift.String, agg_signature: Swift.String, agg_pubkey: Swift.String, control: Swift.String, input_index: Swift.UInt32) -> Swift.String
+public func buildTaprootTx(tx: Swift.String, signature: Swift.String, input_index: Swift.UInt32) -> Swift.String
