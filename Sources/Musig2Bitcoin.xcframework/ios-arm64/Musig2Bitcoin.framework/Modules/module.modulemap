@@ -1,0 +1,11 @@
+framework module Musig2Bitcoin {
+  umbrella header "Musig2Bitcoin.h"
+
+  export *
+  module * { export * }
+}
+
+module Musig2Bitcoin.Swift {
+    header "Musig2Bitcoin-Swift.h"
+    requires objc
+}
