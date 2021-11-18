@@ -21,6 +21,6 @@ public func generateSchnorrSignature(message: Swift.String, privkey: Swift.Strin
 public func getScriptPubkey(addr: Swift.String) -> Swift.String
 public func generateRawTx(txids: [Swift.String], input_indexs: [Swift.UInt32], addresses: [Swift.String], amounts: [Swift.UInt64]) -> Swift.String
 public func getSighash(prev_tx: Swift.String, tx: Swift.String, input_index: Swift.UInt32, agg_pubkey: Swift.String, sigversion: Swift.UInt32) -> Swift.String
-public func buildThresholdTx(tx: Swift.String, agg_signature: Swift.String, agg_pubkey: Swift.String, control: Swift.String, input_index: Swift.UInt32) -> Swift.String
-public func buildTaprootTx(tx: Swift.String, signature: Swift.String, input_index: Swift.UInt32) -> Swift.String
+public func buildThresholdTx(tx: Swift.String, agg_signature: Swift.String, agg_pubkey: Swift.String, control: Swift.String, txid: Swift.String, input_index: Swift.UInt32) -> Swift.String
+public func buildTaprootTx(tx: Swift.String, signature: Swift.String, txid: Swift.String, input_index: Swift.UInt32) -> Swift.String
 public func generateSpentOutputs(prev_txs: [Swift.String], input_indexs: [Swift.UInt32]) -> Swift.String

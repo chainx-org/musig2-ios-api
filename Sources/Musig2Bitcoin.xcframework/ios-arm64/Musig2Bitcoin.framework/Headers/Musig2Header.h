@@ -50,9 +50,13 @@ char *build_raw_script_tx(const char *base_tx,
                           const char *agg_signature,
                           const char *agg_pubkey,
                           const char *control,
+                          const char *txid,
                           uint32_t input_index);
 
-char *build_raw_key_tx(const char *base_tx, const char *signature, uint32_t input_index);
+char *build_raw_key_tx(const char *base_tx,
+                       const char *signature,
+                       const char *txid,
+                       uint32_t input_index);
 
 char *generate_schnorr_signature(const char *message, const char *privkey);
 
