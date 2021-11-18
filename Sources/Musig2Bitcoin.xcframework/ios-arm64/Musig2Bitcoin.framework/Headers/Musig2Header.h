@@ -46,7 +46,7 @@ char *get_sighash(const char *prev_tx,
                   const char *agg_pubkey,
                   uint32_t sigversion);
 
-char *build_raw_scirpt_tx(const char *base_tx,
+char *build_raw_script_tx(const char *base_tx,
                           const char *agg_signature,
                           const char *agg_pubkey,
                           const char *control,
@@ -58,7 +58,7 @@ char *generate_schnorr_signature(const char *message, const char *privkey);
 
 char *get_my_privkey(const char *phrase, const char *pd_passphrase);
 
-char *get_scirpt_pubkey(const char *addr);
+char *get_script_pubkey(const char *addr);
 
 char *get_spent_outputs(const char *prev_tx, uint32_t index);
 
