@@ -10,11 +10,11 @@
 		</data>
 		<key>Headers/Musig2Bitcoin.h</key>
 		<data>
-		NQ233ItGw8uT/P70XH933aXSYSU=
+		IH0WRQKiHKNopAXB/s+zeDbhaJU=
 		</data>
 		<key>Headers/Musig2Header.h</key>
 		<data>
-		Kvp3Ju/9MQB4gdMR+juo9O65Kak=
+		CvO4m24y7bdEqQsas7BHHMuwZvs=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -26,11 +26,11 @@
 		</data>
 		<key>Modules/Musig2Bitcoin.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		RlNlhm419Ay9WFRm6wp4sk3aAwE=
+		ZkH+WXDftTF5zAKZMvoca6ZU9SA=
 		</data>
 		<key>Modules/Musig2Bitcoin.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		3MzafJrIr4QRIVDkL7cg0p1AqiA=
+		EJLnuB5/evNALgkRwImkXSWgYCQ=
 		</data>
 		<key>Modules/Musig2Bitcoin.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -38,11 +38,11 @@
 		</data>
 		<key>Modules/Musig2Bitcoin.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		RlNlhm419Ay9WFRm6wp4sk3aAwE=
+		ZkH+WXDftTF5zAKZMvoca6ZU9SA=
 		</data>
 		<key>Modules/Musig2Bitcoin.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		3MzafJrIr4QRIVDkL7cg0p1AqiA=
+		EJLnuB5/evNALgkRwImkXSWgYCQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -66,22 +66,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			NQ233ItGw8uT/P70XH933aXSYSU=
+			IH0WRQKiHKNopAXB/s+zeDbhaJU=
 			</data>
 			<key>hash2</key>
 			<data>
-			sfg/Uq9EjsiCkIYcwnQzXo2br3k7jH8BdClcd15TKd0=
+			Vw0knW/AC7ldXlBEU9OnFtOeGdqdxDljuY7/icE1lUM=
 			</data>
 		</dict>
 		<key>Headers/Musig2Header.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Kvp3Ju/9MQB4gdMR+juo9O65Kak=
+			CvO4m24y7bdEqQsas7BHHMuwZvs=
 			</data>
 			<key>hash2</key>
 			<data>
-			y2X0aElIq+8QkG9xMATICT8EEvICVx954r+V4kficr4=
+			qijvoeK+hU1JqsLIBzaWU2JM+meMVUKjSUdINdg1J/U=
 			</data>
 		</dict>
 		<key>Modules/Musig2Bitcoin.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -99,22 +99,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RlNlhm419Ay9WFRm6wp4sk3aAwE=
+			ZkH+WXDftTF5zAKZMvoca6ZU9SA=
 			</data>
 			<key>hash2</key>
 			<data>
-			YNIFs94R+ZTocbNtq2zkrYB8HXxTn+taRoMGKtVshgo=
+			tIYumOnckdXEtMtxGA7I0uoJMxqWD0kdKFn/rbWuZFg=
 			</data>
 		</dict>
 		<key>Modules/Musig2Bitcoin.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3MzafJrIr4QRIVDkL7cg0p1AqiA=
+			EJLnuB5/evNALgkRwImkXSWgYCQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			PliS1L2ZGYtG/FAJglg4xG/ictVad1RRM7X3By2J6lU=
+			pwFy4sbi7Z3dQARIqLIHSEpXrJuVL21/pRsj3HufKrA=
 			</data>
 		</dict>
 		<key>Modules/Musig2Bitcoin.swiftmodule/x86_64.swiftdoc</key>
@@ -132,22 +132,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RlNlhm419Ay9WFRm6wp4sk3aAwE=
+			ZkH+WXDftTF5zAKZMvoca6ZU9SA=
 			</data>
 			<key>hash2</key>
 			<data>
-			YNIFs94R+ZTocbNtq2zkrYB8HXxTn+taRoMGKtVshgo=
+			tIYumOnckdXEtMtxGA7I0uoJMxqWD0kdKFn/rbWuZFg=
 			</data>
 		</dict>
 		<key>Modules/Musig2Bitcoin.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3MzafJrIr4QRIVDkL7cg0p1AqiA=
+			EJLnuB5/evNALgkRwImkXSWgYCQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			PliS1L2ZGYtG/FAJglg4xG/ictVad1RRM7X3By2J6lU=
+			pwFy4sbi7Z3dQARIqLIHSEpXrJuVL21/pRsj3HufKrA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
