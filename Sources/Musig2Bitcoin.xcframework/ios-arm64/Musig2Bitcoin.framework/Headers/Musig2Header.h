@@ -60,8 +60,8 @@ char *get_my_privkey(const char *phrase, const char *pd_passphrase);
 
 char *get_script_pubkey(const char *addr);
 
-char *get_spent_outputs(const char *prev_tx, uint32_t index);
+char *get_spent_outputs(const char *prev_tx, uint32_t input_index);
 
-char *add_spent_output(const char *spent_outputs, const char *prev_tx, uint32_t index);
+char *add_spent_output(const char *spent_outputs, const char *prev_tx, uint32_t input_index);
 
 char *generate_btc_address(const char *pubkey, const char *network);
