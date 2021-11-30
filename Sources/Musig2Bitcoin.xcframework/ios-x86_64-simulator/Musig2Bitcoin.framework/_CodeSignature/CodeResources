@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/Musig2Bitcoin.h</key>
 		<data>
-		IH0WRQKiHKNopAXB/s+zeDbhaJU=
+		uexF81JJQw6Xc5xcvMpbUslL9qI=
 		</data>
 		<key>Headers/Musig2Header.h</key>
 		<data>
@@ -66,11 +66,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			IH0WRQKiHKNopAXB/s+zeDbhaJU=
+			uexF81JJQw6Xc5xcvMpbUslL9qI=
 			</data>
 			<key>hash2</key>
 			<data>
-			Vw0knW/AC7ldXlBEU9OnFtOeGdqdxDljuY7/icE1lUM=
+			EEKnrZXHG3fBNS+cZCCAl2v/ICRr3IAL48HTZBkQNJw=
 			</data>
 		</dict>
 		<key>Headers/Musig2Header.h</key>
