@@ -30,7 +30,7 @@ char *get_signature(const char *round2_msg);
 
 char *get_key_agg(const char *pubkeys);
 
-char *generate_threshold_pubkey(const char *pubkeys, uint8_t threshold, const char *network);
+char *generate_threshold_pubkey(const char *pubkeys, uint8_t threshold);
 
 char *generate_control_block(const char *pubkeys, uint8_t threshold, const char *agg_pubkey);
 
