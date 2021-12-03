@@ -34,14 +34,14 @@ char *generate_threshold_pubkey(const char *pubkeys, uint8_t threshold);
 
 char *generate_control_block(const char *pubkeys, uint8_t threshold, const char *agg_pubkey);
 
-char *get_base_tx(const char *txid, uint32_t index);
+char *get_base_tx(const char *prev_tx, const char *txid, uint32_t index);
 
-char *add_input(const char *base_tx, const char *txid, uint32_t index);
+char *add_input(const char *base_tx, const char *prev_tx, const char *txid, uint32_t index);
 
 char *add_output(const char *base_tx, const char *address, uint64_t amount);
 
-char *get_sighash(const char *prev_tx,
-                  const char *tx,
+char *get_sighash(const char *base_tx,
+                  const char *txid,
                   uint32_t input_index,
                   const char *agg_pubkey,
                   uint32_t sigversion);
