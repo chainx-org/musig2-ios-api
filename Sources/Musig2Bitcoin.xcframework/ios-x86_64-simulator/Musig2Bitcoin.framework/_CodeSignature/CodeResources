@@ -10,11 +10,11 @@
 		</data>
 		<key>Headers/Musig2Bitcoin.h</key>
 		<data>
-		u9HNj1nH5yYdOj9B/fqFPftSRyM=
+		hJekcOuqkGbcvH/CbySLBUUez0g=
 		</data>
 		<key>Headers/Musig2Header.h</key>
 		<data>
-		UVQIS1uIr4woGvF4z1g7y6G9+hY=
+		kqhV4WJ55VgiW2HZVeya+wVkgCw=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -66,22 +66,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			u9HNj1nH5yYdOj9B/fqFPftSRyM=
+			hJekcOuqkGbcvH/CbySLBUUez0g=
 			</data>
 			<key>hash2</key>
 			<data>
-			/k15eWlvr2Ocb6n+Fg738R5K9fcaIF+Piv5toeaZWaU=
+			+THk4WaJX6suQB3JjJQWJCNR2NXW1xq5asrFVsVQ/B4=
 			</data>
 		</dict>
 		<key>Headers/Musig2Header.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			UVQIS1uIr4woGvF4z1g7y6G9+hY=
+			kqhV4WJ55VgiW2HZVeya+wVkgCw=
 			</data>
 			<key>hash2</key>
 			<data>
-			cezVUAtB450M+YxrlJ5iDiYYlUMfWkl0QOiK9oQTqfQ=
+			lkYE37t1YM1X6uLUB7Ta63KZet8tiFmr84YDCJwBxeg=
 			</data>
 		</dict>
 		<key>Modules/Musig2Bitcoin.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>

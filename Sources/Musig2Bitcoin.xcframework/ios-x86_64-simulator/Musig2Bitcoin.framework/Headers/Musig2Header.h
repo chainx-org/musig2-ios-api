@@ -12,7 +12,7 @@
 
 #endif /* Musig2Header_h */
 
-const char *get_my_pubkey(const char *privkey);
+const char *get_my_pubkey_musig2(const char *privkey);
 
 typedef struct State State;
 
@@ -26,13 +26,13 @@ char *get_round1_msg(State *state);
 
 char *get_round2_msg(State *state, const char *msg, const char *privkey, const char *pubkeys, const char * received_round1_msg);
 
-char *get_signature(const char *round2_msg);
+char *get_signature_musig2(const char *round2_msg);
 
 char *get_key_agg(const char *pubkeys);
 
-char *generate_threshold_pubkey(const char *pubkeys, uint8_t threshold);
+char *generate_threshold_pubkey_musig2(const char *pubkeys, uint8_t threshold);
 
-char *generate_control_block(const char *pubkeys, uint8_t threshold, const char *agg_pubkey);
+char *generate_control_block_musig2(const char *pubkeys, uint8_t threshold, const char *agg_pubkey);
 
 char *get_base_tx(const char *prev_tx, const char *txid, uint32_t index);
 
@@ -60,7 +60,7 @@ char *build_raw_key_tx(const char *base_tx,
 
 char *generate_schnorr_signature(const char *message, const char *privkey);
 
-char *get_my_privkey(const char *phrase, const char *pd_passphrase);
+char *get_my_privkey_musig2(const char *phrase, const char *pd_passphrase);
 
 char *get_script_pubkey(const char *addr);
 
