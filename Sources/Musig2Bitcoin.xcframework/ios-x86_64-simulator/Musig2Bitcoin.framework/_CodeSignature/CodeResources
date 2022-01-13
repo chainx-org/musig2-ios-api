@@ -6,11 +6,11 @@
 	<dict>
 		<key>Headers/Musig2Bitcoin-Swift.h</key>
 		<data>
-		RmtV3KzpSkaGwPztX5lRUhzureU=
+		l9PqQ9CmUuwwgKE8ibfgy4gK0fo=
 		</data>
 		<key>Headers/Musig2Bitcoin.h</key>
 		<data>
-		hJekcOuqkGbcvH/CbySLBUUez0g=
+		6F6rbY52ey5Ri9yrlZXd1b367DM=
 		</data>
 		<key>Headers/Musig2Header.h</key>
 		<data>
@@ -18,31 +18,31 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		89Nck354AuBqhVTPUAJOc0QV+l4=
+		3/8+rJCjYNdFNAm5dKCX+R7bq/s=
 		</data>
 		<key>Modules/Musig2Bitcoin.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		hOwgxW/WXWPiNHr4/kP4uBefR9o=
+		ChXRZgX8dqkvZh5m51ghWxo/w38=
 		</data>
 		<key>Modules/Musig2Bitcoin.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		T8BL89v0OKXiw6jPxccfjz/7ucU=
+		FnioHbVjw5dSSoUCCRS5UFZgLIs=
 		</data>
 		<key>Modules/Musig2Bitcoin.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		aLo8YtNT3X6BHHzXIrtHOc3n9FA=
+		bZoOiKv54sQMAPBrY8Y2sCpwnwc=
 		</data>
 		<key>Modules/Musig2Bitcoin.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		hOwgxW/WXWPiNHr4/kP4uBefR9o=
+		ChXRZgX8dqkvZh5m51ghWxo/w38=
 		</data>
 		<key>Modules/Musig2Bitcoin.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		T8BL89v0OKXiw6jPxccfjz/7ucU=
+		FnioHbVjw5dSSoUCCRS5UFZgLIs=
 		</data>
 		<key>Modules/Musig2Bitcoin.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		aLo8YtNT3X6BHHzXIrtHOc3n9FA=
+		bZoOiKv54sQMAPBrY8Y2sCpwnwc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -55,22 +55,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RmtV3KzpSkaGwPztX5lRUhzureU=
+			l9PqQ9CmUuwwgKE8ibfgy4gK0fo=
 			</data>
 			<key>hash2</key>
 			<data>
-			SoPyMzx53G1IZCi7TxRLmEU4zQJ0konAZoPmqCSx/WE=
+			SXtTF/gQijyGHiMkK22074Fh+KnrrCxMkvvG7Er+1JE=
 			</data>
 		</dict>
 		<key>Headers/Musig2Bitcoin.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hJekcOuqkGbcvH/CbySLBUUez0g=
+			6F6rbY52ey5Ri9yrlZXd1b367DM=
 			</data>
 			<key>hash2</key>
 			<data>
-			+THk4WaJX6suQB3JjJQWJCNR2NXW1xq5asrFVsVQ/B4=
+			axZCZjIxSTpmCH9tPAqlmB5OjLfSHfo50plE61u9bm8=
 			</data>
 		</dict>
 		<key>Headers/Musig2Header.h</key>
@@ -88,66 +88,66 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			hOwgxW/WXWPiNHr4/kP4uBefR9o=
+			ChXRZgX8dqkvZh5m51ghWxo/w38=
 			</data>
 			<key>hash2</key>
 			<data>
-			IZSmG0evHvNWLXIXbxbAjWID/kdlDkgKW5L93cQpXko=
+			ElOun5yikGXhQtyiFbobQye18rl3UpdGqNWL2QHKdyA=
 			</data>
 		</dict>
 		<key>Modules/Musig2Bitcoin.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			T8BL89v0OKXiw6jPxccfjz/7ucU=
+			FnioHbVjw5dSSoUCCRS5UFZgLIs=
 			</data>
 			<key>hash2</key>
 			<data>
-			kgvKFThiskPcZuXxBENn7I/jT0ULs8Eiw+jNMnWpblI=
+			Hf9IChuRqGo+bGtVOG8gni7QATue1xuXdmozBZ33EvI=
 			</data>
 		</dict>
 		<key>Modules/Musig2Bitcoin.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			aLo8YtNT3X6BHHzXIrtHOc3n9FA=
+			bZoOiKv54sQMAPBrY8Y2sCpwnwc=
 			</data>
 			<key>hash2</key>
 			<data>
-			6OFjL+kc0jVNNeV7vn5nEbZfd3Lqu2jddIL+ilJ/1SM=
+			ONmgDCup5Uwo9vsg4xIEcEyXmb8H8PGi3Qe2BB0+eos=
 			</data>
 		</dict>
 		<key>Modules/Musig2Bitcoin.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hOwgxW/WXWPiNHr4/kP4uBefR9o=
+			ChXRZgX8dqkvZh5m51ghWxo/w38=
 			</data>
 			<key>hash2</key>
 			<data>
-			IZSmG0evHvNWLXIXbxbAjWID/kdlDkgKW5L93cQpXko=
+			ElOun5yikGXhQtyiFbobQye18rl3UpdGqNWL2QHKdyA=
 			</data>
 		</dict>
 		<key>Modules/Musig2Bitcoin.swiftmodule/x86_64.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			T8BL89v0OKXiw6jPxccfjz/7ucU=
+			FnioHbVjw5dSSoUCCRS5UFZgLIs=
 			</data>
 			<key>hash2</key>
 			<data>
-			kgvKFThiskPcZuXxBENn7I/jT0ULs8Eiw+jNMnWpblI=
+			Hf9IChuRqGo+bGtVOG8gni7QATue1xuXdmozBZ33EvI=
 			</data>
 		</dict>
 		<key>Modules/Musig2Bitcoin.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			aLo8YtNT3X6BHHzXIrtHOc3n9FA=
+			bZoOiKv54sQMAPBrY8Y2sCpwnwc=
 			</data>
 			<key>hash2</key>
 			<data>
-			6OFjL+kc0jVNNeV7vn5nEbZfd3Lqu2jddIL+ilJ/1SM=
+			ONmgDCup5Uwo9vsg4xIEcEyXmb8H8PGi3Qe2BB0+eos=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

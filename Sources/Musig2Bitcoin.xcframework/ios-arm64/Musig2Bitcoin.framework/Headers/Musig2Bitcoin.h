@@ -2,7 +2,7 @@
 //  Musig2Bitcoin.h
 //  Musig2Bitcoin
 //
-//  Created by daiwei on 2021/12/7.
+//  Created by daiwei on 2022/1/13.
 //
 
 #import <Foundation/Foundation.h>
