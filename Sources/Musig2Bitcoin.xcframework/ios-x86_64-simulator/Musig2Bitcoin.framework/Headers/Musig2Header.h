@@ -69,3 +69,5 @@ char *get_spent_outputs(const char *prev_tx, uint32_t input_index);
 char *add_spent_output(const char *spent_outputs, const char *prev_tx, uint32_t input_index);
 
 char *generate_btc_address(const char *pubkey, const char *network);
+
+char *get_unsigned_tx(const char *base_tx);

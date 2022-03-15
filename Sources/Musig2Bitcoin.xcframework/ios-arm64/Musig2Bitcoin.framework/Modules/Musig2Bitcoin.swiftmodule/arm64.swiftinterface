@@ -24,3 +24,4 @@ public func getSighash(tx: Swift.String, txid: Swift.String, input_index: Swift.
 public func buildThresholdTx(tx: Swift.String, agg_signature: Swift.String, agg_pubkey: Swift.String, control: Swift.String, txid: Swift.String, input_index: Swift.UInt32) -> Swift.String
 public func buildTaprootTx(tx: Swift.String, signature: Swift.String, txid: Swift.String, input_index: Swift.UInt32) -> Swift.String
 public func generateSpentOutputs(prev_txs: [Swift.String], input_indexs: [Swift.UInt32]) -> Swift.String
+public func getUnsignedTx(tx: Swift.String) -> Swift.String
