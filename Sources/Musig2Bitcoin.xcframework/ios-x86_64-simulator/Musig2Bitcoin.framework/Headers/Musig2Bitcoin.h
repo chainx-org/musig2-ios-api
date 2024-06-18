@@ -2,7 +2,7 @@
 //  Musig2Bitcoin.h
 //  Musig2Bitcoin
 //
-//  Created by daiwei on 2022/3/29.
+//  Created by daiwei on 2024/6/18.
 //
 
 #import <Foundation/Foundation.h>
@@ -14,5 +14,6 @@ FOUNDATION_EXPORT double Musig2BitcoinVersionNumber;
 FOUNDATION_EXPORT const unsigned char Musig2BitcoinVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <Musig2Bitcoin/PublicHeader.h>
+
 
 #import <Musig2Bitcoin/Musig2Header.h>

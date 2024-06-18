@@ -1,5 +1,5 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)
+// swift-compiler-version: Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)
 // swift-module-flags: -target x86_64-apple-ios9.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name Musig2Bitcoin
 import Foundation
 @_exported import Musig2Bitcoin
@@ -15,13 +15,13 @@ public func decodeRound1State(round1_state: Swift.String) -> Swift.OpaquePointer
 public func getRound2Msg(state: Swift.OpaquePointer?, msg: Swift.String, priv: Swift.String, pubkeys: [Swift.String], received_round1_msg: [Swift.String]) -> Swift.String
 public func getAggSignature(round2_msg: [Swift.String]) -> Swift.String
 public func getAggPublicKey(pubkeys: [Swift.String]) -> Swift.String
-public func generateThresholdPubkey(pubkeys: [Swift.String], threshold: Swift.UInt8) -> Swift.String
-public func generateControlBlock(pubkeys: [Swift.String], threshold: Swift.UInt8, agg_pubkey: Swift.String) -> Swift.String
+public func generateThresholdPubkey(pubkeys: [Swift.String], threshold: Swift.UInt8, proto: Swift.String) -> Swift.String
+public func generateControlBlock(pubkeys: [Swift.String], threshold: Swift.UInt8, agg_pubkey: Swift.String, proto: Swift.String) -> Swift.String
 public func generateSchnorrSignature(message: Swift.String, privkey: Swift.String) -> Swift.String
 public func getScriptPubkey(addr: Swift.String) -> Swift.String
 public func generateRawTx(prev_txs: [Swift.String], txids: [Swift.String], input_indexs: [Swift.UInt32], addresses: [Swift.String], amounts: [Swift.UInt64]) -> Swift.String
-public func getSighash(tx: Swift.String, txid: Swift.String, input_index: Swift.UInt32, agg_pubkey: Swift.String, sigversion: Swift.UInt32) -> Swift.String
-public func buildThresholdTx(tx: Swift.String, agg_signature: Swift.String, agg_pubkey: Swift.String, control: Swift.String, txid: Swift.String, input_index: Swift.UInt32) -> Swift.String
+public func getSighash(tx: Swift.String, txid: Swift.String, input_index: Swift.UInt32, agg_pubkey: Swift.String, sigversion: Swift.UInt32, proto: Swift.String) -> Swift.String
+public func buildThresholdTx(tx: Swift.String, agg_signature: Swift.String, agg_pubkey: Swift.String, control: Swift.String, txid: Swift.String, input_index: Swift.UInt32, proto: Swift.String) -> Swift.String
 public func buildTaprootTx(tx: Swift.String, signature: Swift.String, txid: Swift.String, input_index: Swift.UInt32) -> Swift.String
 public func generateSpentOutputs(prev_txs: [Swift.String], input_indexs: [Swift.UInt32]) -> Swift.String
 public func getUnsignedTx(tx: Swift.String) -> Swift.String

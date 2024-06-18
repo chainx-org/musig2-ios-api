@@ -6,43 +6,31 @@
 	<dict>
 		<key>Headers/Musig2Bitcoin-Swift.h</key>
 		<data>
-		l9PqQ9CmUuwwgKE8ibfgy4gK0fo=
+		oebrLI417JC2Z+TOmPyDi8u9nAQ=
 		</data>
 		<key>Headers/Musig2Bitcoin.h</key>
 		<data>
-		lqMcDv+Aqk0hjtYsdmWU6N3PZos=
+		TCaw2u3RvvYOcwRXDLCLQBvr9jY=
 		</data>
 		<key>Headers/Musig2Header.h</key>
 		<data>
-		GYl2FRpZpPE+k1gH/rn6Is6Y24g=
+		baaMIKw+kB2HEjwgH3/1d8ZvQIQ=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		3/8+rJCjYNdFNAm5dKCX+R7bq/s=
+		zVoMoPZoCbX//wqz41O9YNYvZq8=
 		</data>
 		<key>Modules/Musig2Bitcoin.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		ChXRZgX8dqkvZh5m51ghWxo/w38=
+		zeelMzvLLXUbm8sib7eJqPAmsOM=
 		</data>
 		<key>Modules/Musig2Bitcoin.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		wfLl/rfnCOFFSeEMEKfUKKGuV14=
+		miGB7am/yEZ9t0KaU122jujea/g=
 		</data>
 		<key>Modules/Musig2Bitcoin.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		yjzABAx0KgKZOVKSf+Gd4xra/fQ=
-		</data>
-		<key>Modules/Musig2Bitcoin.swiftmodule/x86_64.swiftdoc</key>
-		<data>
-		ChXRZgX8dqkvZh5m51ghWxo/w38=
-		</data>
-		<key>Modules/Musig2Bitcoin.swiftmodule/x86_64.swiftinterface</key>
-		<data>
-		wfLl/rfnCOFFSeEMEKfUKKGuV14=
-		</data>
-		<key>Modules/Musig2Bitcoin.swiftmodule/x86_64.swiftmodule</key>
-		<data>
-		yjzABAx0KgKZOVKSf+Gd4xra/fQ=
+		jiOHYtEbs6KhAejIuBtpxPvF+7o=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -55,99 +43,66 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			l9PqQ9CmUuwwgKE8ibfgy4gK0fo=
+			oebrLI417JC2Z+TOmPyDi8u9nAQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			SXtTF/gQijyGHiMkK22074Fh+KnrrCxMkvvG7Er+1JE=
+			KsmVVBciiw4/B3MHmdK3jbIa+XIUI5wEeV2jv7SHDz4=
 			</data>
 		</dict>
 		<key>Headers/Musig2Bitcoin.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			lqMcDv+Aqk0hjtYsdmWU6N3PZos=
+			TCaw2u3RvvYOcwRXDLCLQBvr9jY=
 			</data>
 			<key>hash2</key>
 			<data>
-			Fn99tpjz9u31ZF9xOo7JUp5FlP+l3ld6pRgUZD5yojU=
+			PfH3hrK3+C3IOXIOJ6/gT3m6kPtRBej1kAe2BSqPFy8=
 			</data>
 		</dict>
 		<key>Headers/Musig2Header.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			GYl2FRpZpPE+k1gH/rn6Is6Y24g=
+			baaMIKw+kB2HEjwgH3/1d8ZvQIQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			KzmTwDOnTKD+haUjYyB2vYtMqFNHa0tgKBUMjeLtRSU=
+			zGqOVoiST6p9l56xG2bUrJFpM9UpXlIQ+7iO7GaW7Q0=
 			</data>
 		</dict>
 		<key>Modules/Musig2Bitcoin.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ChXRZgX8dqkvZh5m51ghWxo/w38=
+			zeelMzvLLXUbm8sib7eJqPAmsOM=
 			</data>
 			<key>hash2</key>
 			<data>
-			ElOun5yikGXhQtyiFbobQye18rl3UpdGqNWL2QHKdyA=
+			6tezrV/VDWzw8rsXid6eURfaWnjIX+KSEMLfwIgfdys=
 			</data>
 		</dict>
 		<key>Modules/Musig2Bitcoin.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wfLl/rfnCOFFSeEMEKfUKKGuV14=
+			miGB7am/yEZ9t0KaU122jujea/g=
 			</data>
 			<key>hash2</key>
 			<data>
-			96d/Z1QW1Vr6w4fcjgxt2gMRHnCyR2yJcfdRemtfqbg=
+			JUOpqOM6dpVEvc57kRrk0/3DHnybYHj+z53/NQCwVXQ=
 			</data>
 		</dict>
 		<key>Modules/Musig2Bitcoin.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			yjzABAx0KgKZOVKSf+Gd4xra/fQ=
+			jiOHYtEbs6KhAejIuBtpxPvF+7o=
 			</data>
 			<key>hash2</key>
 			<data>
-			KOdrWs1QHkvKMTNGkCdHNuwxnW4ba131KixtOLZrO/8=
-			</data>
-		</dict>
-		<key>Modules/Musig2Bitcoin.swiftmodule/x86_64.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ChXRZgX8dqkvZh5m51ghWxo/w38=
-			</data>
-			<key>hash2</key>
-			<data>
-			ElOun5yikGXhQtyiFbobQye18rl3UpdGqNWL2QHKdyA=
-			</data>
-		</dict>
-		<key>Modules/Musig2Bitcoin.swiftmodule/x86_64.swiftinterface</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			wfLl/rfnCOFFSeEMEKfUKKGuV14=
-			</data>
-			<key>hash2</key>
-			<data>
-			96d/Z1QW1Vr6w4fcjgxt2gMRHnCyR2yJcfdRemtfqbg=
-			</data>
-		</dict>
-		<key>Modules/Musig2Bitcoin.swiftmodule/x86_64.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			yjzABAx0KgKZOVKSf+Gd4xra/fQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			KOdrWs1QHkvKMTNGkCdHNuwxnW4ba131KixtOLZrO/8=
+			FiXWS4rpTd04TMsb7zlt3ComYq4+oosHP7eqpKGmaAk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
